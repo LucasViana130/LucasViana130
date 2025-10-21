@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas (FIAP) e Técnico em Informática para Internet (ETEC) com grande interesse em desenvolvimento Back-end, Front-end, análise e ciência de dados. Possuo experiência em projetos práticos com React, Typescript, HTML, CSS, JavaScript, Python e Java</p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas (FIAP) e Técnico em Informática para Internet (ETEC) com grande interesse em desenvolvimento Back-end, Front-end, análise e ciência de dados.
+Java | Python | HTML & CSS | JavaScript | TypeScript | React | SQL | Análise de Dados & Data Science | Metodologia Ágil |</p>
 
 ###
 
