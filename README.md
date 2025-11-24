@@ -11,7 +11,7 @@
 ###
 
 <p align="left">Estudante de Análise e Desenvolvimento de Sistemas (FIAP) e Técnico em Informática para Internet (ETEC) com grande interesse em desenvolvimento Back-end, Front-end, análise e ciência de dados.
-<p Hard skils:
+<p> Hard skils:
 Java | Python | HTML & CSS | JavaScript | TypeScript | React | SQL | Análise de Dados & Data Science | Metodologia Ágil |<p/></p>
 
 ###
